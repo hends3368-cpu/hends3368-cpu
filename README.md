@@ -16,7 +16,7 @@ Business Information Systems graduate who enjoys turning raw data into clear ins
 | [Royal Forest Furniture](https://github.com/hends3368-cpu/royal-forest-website-v2) | Furniture company website with products page and category filter | [View](https://hends3368-cpu.github.io/royal-forest-website-v2/) |
 | [WasteX Platform](https://github.com/hends3368-cpu/wastex-platform) | Waste-management awareness platform with calculator and events | [View](https://hends3368-cpu.github.io/wastex-platform/) |
 | [Excel Dashboard](https://github.com/hends3368-cpu/excel-dashboard-streamlit) | Interactive dashboard for Excel data built with Streamlit | – |
-| [Healthy & Tasty](https://github.com/hends3368-cpu/healthy-tasty-website) | Restaurant landing page | [View](https://hends3368-cpu.github.io/healthy-tasty-website/) |
+| [Healthy & Tasty](https://github.com/hends3368-cpu/healthy-tasty-website) | Landing page for a healthy food store | [View](https://hends3368-cpu.github.io/healthy-tasty-website/) |
 
 ### 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/hend-magdy-196590363)
