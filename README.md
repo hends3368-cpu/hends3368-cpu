@@ -3,6 +3,15 @@
 **Data Analyst & Junior Web Developer** from Benha, Egypt.
 Business Information Systems graduate who enjoys turning raw data into clear insights and building simple, clean websites.
 
+### 💼 Experience
+- **Data Analyst – Royal Forest for General Trading** *(Full-time, Remote)*
+  Organize, review and update company data in Excel (~100 records per day) and keep records accurate and up to date.
+- **Sales & Call Center – Royal Forest for General Trading**
+
+### 🎓 Education
+- **Bachelor of Business Information Systems**
+- **Data Analysis Diploma – SIS Academy** *(Aug 2026 – Nov 2026, in progress)*
+
 ### 🔧 Skills
 - **Data:** Excel, Google Sheets, Tableau, Python (pandas, Streamlit, Plotly)
 - **Web:** HTML, CSS, JavaScript
